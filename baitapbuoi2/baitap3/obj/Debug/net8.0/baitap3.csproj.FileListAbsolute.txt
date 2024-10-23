@@ -1,0 +1,15 @@
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\bin\Debug\net8.0\baitap3.exe
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\bin\Debug\net8.0\baitap3.deps.json
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\bin\Debug\net8.0\baitap3.runtimeconfig.json
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\bin\Debug\net8.0\baitap3.dll
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\bin\Debug\net8.0\baitap3.pdb
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.GeneratedMSBuildEditorConfig.editorconfig
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.AssemblyInfoInputs.cache
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.AssemblyInfo.cs
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.csproj.CoreCompileInputs.cache
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.sourcelink.json
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.dll
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\refint\baitap3.dll
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.pdb
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\baitap3.genruntimeconfig.cache
+F:\laptrinh\.net\dotnet\baitapbuoi2\baitap3\obj\Debug\net8.0\ref\baitap3.dll
