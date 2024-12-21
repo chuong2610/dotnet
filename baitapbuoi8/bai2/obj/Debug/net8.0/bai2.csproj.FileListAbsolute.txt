@@ -1,0 +1,15 @@
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\bin\Debug\net8.0\bai2.exe
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\bin\Debug\net8.0\bai2.deps.json
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\bin\Debug\net8.0\bai2.dll
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\bin\Debug\net8.0\bai2.pdb
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.sourcelink.json
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.dll
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\refint\bai2.dll
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.pdb
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+F:\laptrinh\.net\dotnet\BaiTapBuoi8\bai2\obj\Debug\net8.0\ref\bai2.dll
